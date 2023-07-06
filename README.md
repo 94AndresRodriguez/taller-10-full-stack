@@ -18,4 +18,7 @@ Grupo 1<p>
 <h3> 5 - Base de datos</h3>
 <img src="./public/images/mysql.png"
 alt="mysql">
+<h3> 6 - Conexión</h3>
+<img src="./public/images/connection.png"
+alt="connection">
 
