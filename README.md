@@ -12,6 +12,9 @@ Grupo 1<p>
 alt="cs">
 
 <h2>Punto 2: </h2>
+<h3>2 - Mayor edad-if</h3>
+<img src="./public/images/mayor-edad-if.png"
+alt="me">
 
 <h2>Punto 3: </h2>
 
@@ -21,9 +24,11 @@ alt="cs">
 <h3>5 - Base de datos</h3>
 <img src="./public/images/mysql.png"
 alt="mysql">
+
 <h3>6 - Conexión</h3>
 <img src="./public/images/connection.png"
 alt="connection">
+
 <h3>7 - Muestra de datos en pantalla</h3>
 <img src="./public/images/bd.png"
 alt="bd">
