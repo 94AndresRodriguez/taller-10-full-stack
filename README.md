@@ -7,6 +7,9 @@ Grupo 1<p>
 <p>Profesor: Cristian Patiño 
 
 <h2>Punto 1: </h2>
+<h3>1 - Calculadora-switch</h3>
+<img src="./public/images/calculadora-switch.png"
+alt="cs">
 
 <h2>Punto 2: </h2>
 
@@ -24,4 +27,5 @@ alt="connection">
 <h3>7 - Muestra de datos en pantalla</h3>
 <img src="./public/images/bd.png"
 alt="bd">
+
 
