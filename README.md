@@ -17,6 +17,11 @@ alt="cs">
 alt="me">
 
 <h2>Punto 3: </h2>
+<h3>3- Datos usuario-get</h3>
+<img src="./public/images/datos-usuario-get.png"
+alt="du">
+<img src="./public/images/datos-usuario-resultado.png"
+alt="du">
 
 <h2>Punto 4: </h2>
 
