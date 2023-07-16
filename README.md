@@ -24,6 +24,9 @@ alt="du">
 alt="du">
 
 <h2>Punto 4: </h2>
+<h3>4- Calculo entre fechas</h3>
+<img src="./public/images/calculo-fechas.png"
+alt="cf">
 
 <h2>Punto 5-6-7: </h2>
 <h3>5 - Base de datos</h3>
